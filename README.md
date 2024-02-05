@@ -7,24 +7,24 @@ This is the jupyter code that i have written to generate a model based on CNN to
  
 | Layer (type)                     | Output Shape          | Param   |
 | ---------------------------------|-----------------------|---------|
-| conv2d_9 (Conv2D)                | (None, 254, 254, 16)  | 448     |
-| max_pooling2d_5 (MaxPooling2D)   | (None, 127, 127, 16)  | 0       |
-| conv2d_10 (Conv2D)               | (None, 125, 125, 32)  | 4640    |
-| max_pooling2d_6 (MaxPooling2D)   | (None, 62, 62, 32)    | 0       |
-| conv2d_11 (Conv2D)               | (None, 60, 60, 64)    | 18496   |
-| conv2d_12 (Conv2D)               | (None, 58, 58, 64)    | 36928   |
-| max_pooling2d_7 (MaxPooling2D)   | (None, 29, 29, 64)    | 0       |
-| conv2d_13 (Conv2D)               | (None, 27, 27, 128)   | 73856   |
-| conv2d_14 (Conv2D)               | (None, 25, 25, 128)   | 147584  |
-| max_pooling2d_8 (MaxPooling2D)   | (None, 12, 12, 128)   | 0       |
-| conv2d_15 (Conv2D)               | (None, 10, 10, 256)   | 295168  |
-| conv2d_16 (Conv2D)               | (None, 8, 8, 256)     | 590080  |
-| conv2d_17 (Conv2D)               | (None, 6, 6, 256)     | 590080  |
-| max_pooling2d_9 (MaxPooling2D)   | (None, 3, 3, 256)     | 0       |
-| flatten_1 (Flatten)              | (None, 2304)          | 0       |
-| dense_3 (Dense)                  | (None, 512)           | 1180160 |
-| dense_4 (Dense)                  | (None, 512)           | 262656  |
-| dense_5 (Dense)                  | (None, 5)             | 2565    |
+| conv2d_81 (Conv2D)               | (None, 254, 254, 16)  | 448      |
+| max_pooling2d_45 (MaxPooling2D)   | (None, 128, 128, 16)  | 0       |
+| conv2d_82 (Conv2D)               | (None, 126, 126, 32)  | 4640    |
+| max_pooling2d_46 (MaxPooling2D)   | (None, 63, 63, 32)    | 0       |
+| conv2d_83 (Conv2D)               | (None, 61, 61, 64)    | 18496   |
+| conv2d_84 (Conv2D)               | (None, 59, 59, 64)    | 36928   |
+| max_pooling2d_47 (MaxPooling2D)   | (None, 29, 29, 64)    | 0       |
+| conv2d_85 (Conv2D)               | (None, 27, 27, 128)   | 73856   |
+| conv2d_86 (Conv2D)               | (None, 25, 25, 128)   | 147584  |
+| max_pooling2d_48 (MaxPooling2D)   | (None, 12, 12, 128)   | 0       |
+| conv2d_87 (Conv2D)               | (None, 10, 10, 256)   | 295168  |
+| conv2d_88 (Conv2D)               | (None, 8, 8, 256)     | 590080  |
+| conv2d_89 (Conv2D)               | (None, 6, 6, 256)     | 590080  |
+| max_pooling2d_49 (MaxPooling2D)   | (None, 3, 3, 256)     | 0       |
+| flatten_9 (Flatten)              | (None, 2304)          | 0       |
+| dense_27 (Dense)                  | (None, 512)           | 1180160 |
+| dense_28 (Dense)                  | (None, 512)           | 262656  |
+| dense_29 (Dense)                  | (None, 2)             | 2565    |
 
                                                                  
 
