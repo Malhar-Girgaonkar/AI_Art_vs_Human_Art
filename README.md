@@ -73,5 +73,5 @@ link to M.U.R.A.L :  [M.U.R.A.L](https://github.com/Malhar-Girgaonkar/M.U.R.A.L/
 I would like to give credit to the sources from where i was able to get the datasets that i used in this application.
 - Kaggle : [Kaggle.com](https://www.kaggle.com)
 - Wiki Art dataset :[WikiArt](https://www.kaggle.com/datasets/sivarazadi/wikiart-art-movementsstyles)
-## Contributing
+## Contributions
 Contributions to AI_Art_vs_Human_Art are welcome. If you encounter issues or have ideas for improvement, please open an issue or submit a pull request.
