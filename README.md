@@ -56,7 +56,7 @@ This is the jupyter code that i have written to generate a model based on CNN to
 This project is licensed under MIT.
 
 ## About Author
-Thus code is written by Malhar Girgaonkar of MREC and was made using datase available at kaggle and wiki. I have modified and reduced the scale of data to fit my model needs. This model is trained on a total of 1.87 GB of data that is of following two categories
+This code is written by Malhar Girgaonkar of MREC and was made using datase available at kaggle and wiki. I have modified and reduced the scale of data to fit my model needs. This model is trained on a total of 1.87 GB of data that is of following two categories
 - Human made portraits of many kind.
 - Ai made portraits that were available on web.
 
