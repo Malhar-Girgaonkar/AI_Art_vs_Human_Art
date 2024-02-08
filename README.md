@@ -65,7 +65,7 @@ The model was satisfactory and is used in the author's application called M.U.R.
 link to M.U.R.A.L :  [M.U.R.A.L](https://github.com/Malhar-Girgaonkar/M.U.R.A.L/tree/master)
 
 ## Contact 
-- Email: [malhargirgaonkarr@gmail.com](mailto:malhargirgaonkarr@gmail.com)
+- Email: [malhargirgaonkar@gmail.com](mailto:malhargirgaonkar@gmail.com)
 - Linkedin : [Malhar Girgaonkar](https://www.linkedin.com/in/malhar-girgaonkar-b9223a28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Github : [Malhar Girgankar](https://github.com/Malhar-Girgaonkar)
 
