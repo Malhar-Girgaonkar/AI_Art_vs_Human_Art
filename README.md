@@ -69,7 +69,7 @@ link to M.U.R.A.L :  [M.U.R.A.L](https://github.com/Malhar-Girgaonkar/M.U.R.A.L/
 - Linkedin : [Malhar Girgaonkar](https://www.linkedin.com/in/malhar-girgaonkar-b9223a28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Github : [Malhar Girgankar](https://github.com/Malhar-Girgaonkar)
 
-## credits
+## Credits
 I would like to give credit to the sources from where i was able to get the datasets that i used in this application.
 - Kaggle : [Kaggle.com](https://www.kaggle.com)
 - Wiki Art dataset :[WikiArt](https://www.kaggle.com/datasets/sivarazadi/wikiart-art-movementsstyles)
